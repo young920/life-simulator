@@ -8,7 +8,7 @@
     <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#d9e6dd" stroke-opacity=".035"/></pattern>
     <filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="11" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
     <style>
-      text{font-family:"Microsoft YaHei","Noto Sans CJK SC",sans-serif;fill:#f5f3eb} .muted{fill:#abc1ca} .gold{fill:#f2d69a} .jade{fill:#a7d8c4} .tiny{font-size:18px;letter-spacing:2px}.body{font-size:23px}.label{font-size:20px;letter-spacing:1px}.h2{font-size:32px;font-weight:700}.card{fill:#10273d;stroke:#496578;stroke-width:1.5}.line{stroke:#83b8ac;stroke-width:2;fill:none}.dashed{stroke-dasharray:7 10}
+      text{font-family:"Microsoft YaHei","Noto Sans CJK SC",sans-serif;fill:#f5f3eb} .muted{fill:#abc1ca} .gold{fill:#f2d69a} .jade{fill:#a7d8c4} .tiny{font-size:18px;letter-spacing:2px}.body{font-size:23px}.label{font-size:20px;letter-spacing:1px}.h2{font-size:32px;font-weight:700}.card{fill:#10273d;stroke:#496578;stroke-width:1.5}.line{stroke:#83b8ac;stroke-width:2;fill:none}.dashed{stroke-dasharray:7 10}.paper text{fill:#132c3e}.paper .gold{fill:#8a6930}.paper .jade{fill:#39675a}.paper .muted{fill:#526975}
     </style>
   </defs>
   <rect width="1440" height="2400" fill="url(#bg)"/><rect width="1440" height="2400" fill="url(#grid)"/>
@@ -43,12 +43,11 @@
     <text x="112" y="274" font-size="24" class="jade" font-weight="700">关系谱与人生片段 · 持续累积</text><text x="112" y="304" class="label muted">重要角色在相应阶段登场，共同经历会影响彼此的关系。</text>
     <text x="112" y="345" font-size="24" class="gold" font-weight="700">第 100 年 · 人生终章</text><text x="112" y="375" class="label muted">回望关键节点、重要的人与走到最后的答案，复制或分享。</text>
   </g>
-  <g transform="translate(108 1900)"><rect width="1224" height="270" rx="24" fill="#e8e1cf"/><text x="38" y="54" font-size="21" letter-spacing="2" fill="#31575b">03 / 生成机制与体验控制</text>
-    <g fill="#132c3e"><text x="38" y="108" font-size="26" font-weight="700">每局专属</text><text x="38" y="148" font-size="20">按你的世界与设定，生成</text><text x="38" y="178" font-size="20">摘要、人物、关系、事件和记忆。</text><text x="38" y="217" font-size="18" fill="#526975">封面为本局生成；关键插画按需绘制。</text>
+  <g transform="translate(108 1900)"><rect width="1224" height="270" rx="24" fill="#e8e1cf"/><g class="paper"><text x="38" y="54" class="gold" font-size="21" letter-spacing="2">03 / 生成机制与体验控制</text>
+    <text x="38" y="108" font-size="26" font-weight="700">每局专属</text><text x="38" y="148" font-size="20">按你的世界与设定，生成</text><text x="38" y="178" font-size="20">摘要、人物、关系、事件和记忆。</text><text x="38" y="217" class="muted" font-size="18">封面为本局生成；关键插画按需绘制。</text>
     <text x="445" y="108" font-size="26" font-weight="700">选择有回声</text><text x="445" y="148" font-size="20">关键节点停下来等你，选择结果</text><text x="445" y="178" font-size="20">写回属性、人物关系与人生轨迹。</text><text x="445" y="217" font-size="18" fill="#526975">自动 0.5× / 1× / 2×，随时暂停。</text>
-    <text x="850" y="108" font-size="26" font-weight="700">失败有边界</text><text x="850" y="148" font-size="20">文字模型按顺序尝试，最多 5 个；</text><text x="850" y="178" font-size="20">全部失败就明确提示，不伪造故事。</text><text x="850" y="217" font-size="18" fill="#526975">插画失败不阻断人生继续。</text></g>
+    <text x="850" y="108" font-size="26" font-weight="700">失败有边界</text><text x="850" y="148" font-size="20">文字模型按顺序尝试，最多 5 个；</text><text x="850" y="178" font-size="20">全部失败就明确提示，不伪造故事。</text><text x="850" y="217" class="muted" font-size="18">插画失败不阻断人生继续。</text></g>
   </g>
   <text x="112" y="2240" class="tiny gold">在同一条人生时间线上，看见另一种可能。</text><text x="112" y="2290" class="body muted">《你想活出怎样的人生》 · 可玩的 AI 人生模拟器</text>
   <g transform="translate(112 2320)"><path d="M0 0h1216" stroke="#69878c" stroke-width="1"/><text x="0" y="38" class="tiny muted">选择起点 → 遇见命运 → 留下回忆 → 写完此生</text><text x="1216" y="38" text-anchor="end" class="tiny jade">每一局，都由你的选择定义</text></g>
 </svg>
-
