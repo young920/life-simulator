@@ -20,11 +20,11 @@
   <g transform="translate(108 405)"><rect width="1224" height="245" rx="26" fill="url(#hero)" stroke="#71988e" stroke-opacity=".7"/>
     <text x="38" y="55" class="tiny gold">一局人生的核心循环</text>
     <g transform="translate(35 88)">
-      <g><circle cx="88" cy="55" r="34" fill="#e2bd76" fill-opacity=".17" stroke="#e2bd76"/><text x="77" y="64" font-size="28" class="gold">01</text><text x="145" y="49" font-size="25" font-weight="700">设定此生</text><text x="145" y="81" class="label muted">世界 · 时代 · 身份 · 志向</text></g>
-      <path d="M355 55h82" class="line"/><path d="m427 45 14 10-14 10" class="line"/>
-      <g transform="translate(470)"><circle cx="88" cy="55" r="34" fill="#a7d8c4" fill-opacity=".14" stroke="#a7d8c4"/><text x="77" y="64" font-size="28" class="jade">02</text><text x="145" y="49" font-size="25" font-weight="700">AI 编织</text><text x="145" y="81" class="label muted">人物 · 关系 · 事件 · 回忆</text></g>
-      <path d="M790 55h82" class="line"/><path d="m862 45 14 10-14 10" class="line"/>
-      <g transform="translate(905)"><circle cx="88" cy="55" r="34" fill="#d2a6b2" fill-opacity=".16" stroke="#d2a6b2"/><text x="77" y="64" font-size="28" fill="#f1c9d2">03</text><text x="145" y="49" font-size="25" font-weight="700">亲自经历</text><text x="145" y="81" class="label muted">逐年推进 · 做出选择 · 看见余波</text></g>
+      <g><circle cx="48" cy="55" r="34" fill="#e2bd76" fill-opacity=".17" stroke="#e2bd76"/><text x="37" y="64" font-size="28" class="gold">01</text><text x="98" y="49" font-size="25" font-weight="700">设定此生</text><text x="98" y="81" class="label muted">世界 · 时代 · 身份 · 志向</text></g>
+      <path d="M365 55h35" class="line"/><path d="m390 45 14 10-14 10" class="line"/>
+      <g transform="translate(405)"><circle cx="48" cy="55" r="34" fill="#a7d8c4" fill-opacity=".14" stroke="#a7d8c4"/><text x="37" y="64" font-size="28" class="jade">02</text><text x="98" y="49" font-size="25" font-weight="700">AI 编织</text><text x="98" y="81" class="label muted">人物 · 关系 · 事件 · 回忆</text></g>
+      <path d="M770 55h35" class="line"/><path d="m795 45 14 10-14 10" class="line"/>
+      <g transform="translate(810)"><circle cx="48" cy="55" r="34" fill="#d2a6b2" fill-opacity=".16" stroke="#d2a6b2"/><text x="37" y="64" font-size="28" fill="#f1c9d2">03</text><text x="98" y="49" font-size="25" font-weight="700">亲自经历</text><text x="98" y="81" class="label muted">逐年推进 · 做出选择</text></g>
     </g>
   </g>
   <text x="112" y="725" class="tiny jade">01 / 从星图选择你的起点</text><text x="112" y="778" class="h2">先定“我从哪里出发”，再定“我想成为谁”</text>
@@ -51,3 +51,4 @@
   <text x="112" y="2240" class="tiny gold">在同一条人生时间线上，看见另一种可能。</text><text x="112" y="2290" class="body muted">《你想活出怎样的人生》 · 可玩的 AI 人生模拟器</text>
   <g transform="translate(112 2320)"><path d="M0 0h1216" stroke="#69878c" stroke-width="1"/><text x="0" y="38" class="tiny muted">选择起点 → 遇见命运 → 留下回忆 → 写完此生</text><text x="1216" y="38" text-anchor="end" class="tiny jade">每一局，都由你的选择定义</text></g>
 </svg>
+
