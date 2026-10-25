@@ -4,7 +4,9 @@
 
 ## 产品讲解图
 
-高密度矢量信息图：[`public/assets/product-explainer.svg`](public/assets/product-explainer.svg)
+AI 生成的 3:4 产品介绍图：[`public/assets/product-explainer-3x4-ai.webp`](public/assets/product-explainer-3x4-ai.webp)
+
+可编辑矢量版：[`public/assets/product-explainer-3x4.svg`](public/assets/product-explainer-3x4.svg)
 
 ## 本地运行
 
@@ -19,3 +21,4 @@ npm run dev
 ## 部署说明
 
 前端使用 Vite，静态托管 Worker 位于 `worker/index.js`。当前本地 API 在 `server/index.mjs`，线上部署前需要在托管运行时提供对应 API 路由和运行时 secrets。产品界面、生成流程及本地服务说明见 `HANDOFF.md` 与 `PUBLISH_CREDENTIALS.md`。
+
