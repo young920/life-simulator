@@ -4,7 +4,7 @@
 
 ## 产品讲解图
 
-AI 生成的 3:4 产品介绍图：[`public/assets/product-explainer-3x4-ai.webp`](public/assets/product-explainer-3x4-ai.webp)
+AI 生成的横板产品介绍图：[`public/assets/product-explainer-landscape-ai.webp`](public/assets/product-explainer-landscape-ai.webp)
 
 可编辑矢量版：[`public/assets/product-explainer-3x4.svg`](public/assets/product-explainer-3x4.svg)
 
